@@ -1,0 +1,18 @@
+:root{
+    ---clr-primary: #82bb9e;
+    ---clr-secondary: #fcfd94;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header nav{
+    background-color: var(---clr-primary);
+}
+
+.content{
+    background-color: var(---clr-secondary);
+    padding: 25px;
+}
